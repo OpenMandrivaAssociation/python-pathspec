@@ -1,5 +1,5 @@
 Name:		python-pathspec
-Version:	0.11.2
+Version:	0.12.1
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/pathspec/pathspec-%{version}.tar.gz
 Summary:	Utility library for gitignore style pattern matching of file paths.
