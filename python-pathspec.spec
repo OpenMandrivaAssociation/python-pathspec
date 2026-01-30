@@ -1,7 +1,7 @@
 %define module pathspec
 
 Name:		python-pathspec
-Version:	1.0.3
+Version:	1.0.4
 Release:	1
 Summary:	Utility library for gitignore style pattern matching of file paths.
 URL:		https://pypi.org/project/pathspec/
